@@ -1,18 +1,3 @@
 body {
   background-image: url("paper.gif");
 }
-body {
-	margin: 0 auto;
-	padding-top: 20px;
-	padding-bottom: 20px;
-	
-	max-width: 800px;
-	min-height: 100vh;
-
-	background-color: #0F0F0F;	
-	background-image: url("/theme/images/background.jpg");
-	background-attachment: fixed;
-	/*background-size: 100% 100%; */ background-size: cover;
-	background-position: center;
-	background-repeat: no-repeat;
-}
